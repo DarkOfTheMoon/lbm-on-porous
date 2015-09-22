@@ -1,0 +1,1 @@
+Aplicación del método de Lattice Boltzmann a la simulación computacional de fluidos en medios porosos.
